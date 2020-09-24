@@ -716,8 +716,198 @@
         </div>
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/caja-lazo-cerrada.jpg);height: 250px;"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Caja de chocolates</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/.</span>
+                  </div>
+                </div>
+                <p><span>Precio según cantidad</p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/caja-lazo-abierta.jpg);height: 250px;"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Caja de chocolates</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/.</span>
+                  </div>
+                </div>
+                <p><span>Precio según cantidad</p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/caja-lazo2-cerrada.jpg);height: 250px;"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Caja de chocolates</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/.</span>
+                  </div>
+                </div>
+                <p><span>Precio según cantidad</p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/caja-lazo2-abierta.jpg);height: 250px;"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Caja de chocolates</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/.</span>
+                  </div>
+                </div>
+                <p><span>Precio según cantidad</p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/caja-oso-cerrada.jpg);height: 250px;"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Caja de chocolates</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/.</span>
+                  </div>
+                </div>
+                <p><span>Precio según cantidad</p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/caja-oso-abierta.jpg);height: 250px;"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Caja de chocolates</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/.</span>
+                  </div>
+                </div>
+                <p><span>Precio según cantidad</p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/caja-varon-cerrada.jpg);height: 250px;"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Caja de chocolates</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/.</span>
+                  </div>
+                </div>
+                <p><span>Precio según cantidad</p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/caja-varon-abierta.jpg);height: 250px;"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Caja de chocolates</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/.</span>
+                  </div>
+                </div>
+                <p><span>Precio según cantidad</p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/caja-pelota.jpg);height: 250px;"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Caja de chocolates</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/.</span>
+                  </div>
+                </div>
+                <p><span>Precio según cantidad</p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/pionono.jpg);height: 250px;"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Pionono</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/.12</span>
+                  </div>
+                </div>
+                <p><span>Relleno de manjar</p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
             <div class="menu-img img "
-              style="background-image: url(imagenes/alafjores-caja.jpg);height: 250px;"></div>
+              style="background-image: url(imagenes/alafjores-caja.jpg);height: 270px;"></div>
             <div class="text d-flex align-items-center">
               <div>
                 <div class="d-flex">
@@ -736,7 +926,7 @@
         </div>
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img" style="background-image: url(imagenes/alafjores-flor.jpg);height: 250px;"></div>
+            <div class="menu-img img" style="background-image: url(imagenes/alafjores-flor.jpg);height: 270px;"></div>
             <div class="text d-flex align-items-center">
               <div>
                 <div class="d-flex">
