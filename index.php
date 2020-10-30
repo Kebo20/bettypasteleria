@@ -355,8 +355,7 @@
                   </div>
 
                 </div>
-                <p><span>Bañada en fudge</span>, <span>chocolate blanco rallado</span>, <span>chispas de chocolate </span> y
-                  <span>barquillos rellenos de manjar</span></p>
+                <p><span>Bañada en fudge</span></p>
                 <p><a href="#" class="btn btn-primary">Ordenar</a></p>
               </div>
             </div>
