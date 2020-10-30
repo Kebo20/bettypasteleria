@@ -355,7 +355,7 @@
                   </div>
 
                 </div>
-                <p><span>Bañada en fudge</span></p>
+                <p><span>Bañada en fudge</span> <br> <br> <br> <br></p>
                 <p><a href="#" class="btn btn-primary">Ordenar</a></p>
               </div>
             </div>
