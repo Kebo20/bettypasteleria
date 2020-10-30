@@ -32,21 +32,24 @@
 
 
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179010109-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179010109-3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'UA-179010109-3');
-</script>
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-179010109-3');
+  </script>
 
 </head>
 
 <body>
 
-  
+
 
   <!--
     <div class="py-1 bg-black top">
@@ -78,11 +81,11 @@
         aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="oi oi-menu"></span> Ver productos
       </button>-->
-      <a href="#productos" class="navbar-toggler"  type="button"> <span class="oi oi-menu"></span>Productos</a>
+      <a href="#productos" class="navbar-toggler" type="button"> <span class="oi oi-menu"></span>Productos</a>
 
       <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item active"><a  href="https://bettypasteleria.gogazo.com" class="nav-link">Inicio</a></li>
+          <li class="nav-item active"><a href="https://bettypasteleria.gogazo.com" class="nav-link">Inicio</a></li>
           <li class="nav-item"><a href="#productos" class="nav-link">Productos</a></li>
 
           <!--<li class="nav-item cta"><a href="reservation.html" class="nav-link"> a tabBookle</a></li>-->
@@ -94,8 +97,7 @@
 
 
   <div id="wsp">
-    <a href="https://api.whatsapp.com/send?phone=51971280491&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20productos"
-      class="float" target="_blank">
+    <a href="https://api.whatsapp.com/send?phone=51971280491&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20productos" class="float" target="_blank">
       <i class="fa fa-whatsapp my-float"></i>
     </a>
   </div>
@@ -104,8 +106,7 @@
     <div class="slider-item js-fullheight" style="background-image: url(imagenes/portada1.jpg);">
       <div class="overlay"></div>
       <div class="container">
-        <div class="row slider-text js-fullheight justify-content-center align-items-center"
-          data-scrollax-parent="true">
+        <div class="row slider-text js-fullheight justify-content-center align-items-center" data-scrollax-parent="true">
 
           <div class="col-md-12 col-sm-12 text-center ftco-animate">
             <span class="subheading">Betty</span>
@@ -119,8 +120,7 @@
     <div class="slider-item js-fullheight" style="background-image: url(imagenes/portada2.jpg);">
       <div class="overlay"></div>
       <div class="container">
-        <div class="row slider-text js-fullheight justify-content-center align-items-center"
-          data-scrollax-parent="true">
+        <div class="row slider-text js-fullheight justify-content-center align-items-center" data-scrollax-parent="true">
 
           <div class="col-md-12 col-sm-12 text-center ftco-animate">
             <span class="subheading">Betty</span>
@@ -206,8 +206,7 @@
           </div>
           <p>Elaboración de pasteles, kekes y cupcakes</p>
           <pc class="time">
-            <span><a
-                href="https://api.whatsapp.com/send?phone=51971280491&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20productos">971
+            <span><a href="https://api.whatsapp.com/send?phone=51971280491&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20productos">971
                 280 491 </a></span>
             </p>
         </div>
@@ -320,6 +319,91 @@
       <div class="row no-gutters d-flex align-items-stretch">
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/tres-leches.jpg);"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Torta 3 leches</h3>
+
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/.58</span>
+
+                  </div>
+
+                </div>
+                <p>Relleno de manjar , cubierto en chantilly y decorado con canella o chocolate rallado</p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/torta-chocolate-cuadrada.jpg);"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Torta de chocolate cuadrada </h3>
+
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/.55</span>
+
+                  </div>
+
+                </div>
+                <p><span>Bañada en fudge</span>, <span>chocolate blanco rallado</span>, <span>chispas de chocolate </span> y
+                  <span>barquillos rellenos de manjar</span></p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/candy-torta5.jpg);height: 380px;"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Candy torta (1/2)</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/.58</span>
+                  </div>
+                </div>
+                <p>Dulces variados y keke de naranja bañado en manjar</p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/candy-torta5.jpg);height: 380px;"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Candy torta (1/2)</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/.58</span>
+                  </div>
+                </div>
+                <p>Dulces variados y keke de naranja bañado en manjar</p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
             <div class="menu-img img" style="background-image: url(imagenes/torta-chocolate.jpg);"></div>
             <div class="text d-flex align-items-center">
               <div>
@@ -332,7 +416,7 @@
                     <span class="price">S/.25</span>
 
                   </div>
-                 
+
                 </div>
                 <p><span>Bañada en fudge</span>, <span>chocolate blanco rallado</span>, <span>chispas de chocolate </span> y
                   <span>barquillos rellenos de manjar</span></p>
@@ -362,7 +446,7 @@
             </div>
           </div>
         </div>
-        
+
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
             <div class="menu-img img" style="background-image: url(imagenes/torta-chocolate-nombre.jpg);height: 390px;">
@@ -371,7 +455,7 @@
               <div>
                 <div class="d-flex">
                   <div class="one-half">
-                    <h3>Torta de chocolate  (1/4)</h3>
+                    <h3>Torta de chocolate (1/4)</h3>
                   </div>
                   <div class="one-forth">
                     <span class="price">S/.27</span>
@@ -386,8 +470,7 @@
         </div>
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img "
-              style="background-image: url(imagenes/torta-infantil.jpg);height: 390px;"></div>
+            <div class="menu-img img " style="background-image: url(imagenes/torta-infantil.jpg);height: 390px;"></div>
             <div class="text d-flex align-items-center">
               <div>
                 <div class="d-flex">
@@ -395,7 +478,7 @@
                     <h3>Torta infantil (1/4,1/2)</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">S/.35  S/.48</span>
+                    <span class="price">S/.35 S/.48</span>
                   </div>
                 </div>
                 <p><span>Naranja o vainilla, cubierta con crema de mantequilla y rellena de manjar o mermelada</p>
@@ -404,7 +487,7 @@
             </div>
           </div>
         </div>
-     
+
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
             <div class="menu-img img" style="background-image: url(imagenes/candy-torta1.jpg);height: 380px;"></div>
@@ -449,8 +532,7 @@
 
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img "
-              style="background-image: url(imagenes/cupcakes-rosa.jpg);height: 250px;"></div>
+            <div class="menu-img img " style="background-image: url(imagenes/cupcakes-rosa.jpg);height: 250px;"></div>
             <div class="text d-flex align-items-center">
               <div>
                 <div class="d-flex">
@@ -507,11 +589,10 @@
             </div>
           </div>
         </div>
-   
+
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img "
-              style="background-image: url(imagenes/keke-naranja.jpg);height: 250px;"></div>
+            <div class="menu-img img " style="background-image: url(imagenes/keke-naranja.jpg);height: 250px;"></div>
             <div class="text d-flex align-items-center">
               <div>
                 <div class="d-flex">
@@ -519,7 +600,7 @@
                     <h3>Keke (1/8 , 1/4 ,1/2)</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">S/.8  S/.15  S/.22</span>
+                    <span class="price">S/.8 S/.15 S/.22</span>
                   </div>
                 </div>
                 <p><span>Naranja o vainilla</p>
@@ -528,12 +609,11 @@
             </div>
           </div>
         </div>
-        
-      
+
+
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img "
-              style="background-image: url(imagenes/torta-helada-naranja-piña.jpg);height: 250px"></div>
+            <div class="menu-img img " style="background-image: url(imagenes/torta-helada-naranja-piña.jpg);height: 250px"></div>
             <div class="text d-flex align-items-center">
               <div>
                 <div class="d-flex">
@@ -552,8 +632,7 @@
         </div>
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img "
-              style="background-image: url(imagenes/torta-helada-fresa.jpg);height: 250px;"></div>
+            <div class="menu-img img " style="background-image: url(imagenes/torta-helada-fresa.jpg);height: 250px;"></div>
             <div class="text d-flex align-items-center">
               <div>
                 <div class="d-flex">
@@ -570,7 +649,7 @@
             </div>
           </div>
         </div>
-        
+
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
             <div class="menu-img img" style="background-image: url(imagenes/bombones1.jpg);height: 270px;"></div>
@@ -629,7 +708,7 @@
             </div>
           </div>
         </div>
-        
+
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
             <div class="menu-img img" style="background-image: url(imagenes/dedicatoria.jpg);height: 300px;"></div>
@@ -649,7 +728,7 @@
             </div>
           </div>
         </div>
-      
+
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
             <div class="menu-img img" style="background-image: url(imagenes/dedicatoria3.jpg);height: 310px;"></div>
@@ -717,7 +796,7 @@
                     <h3>chocotejas</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">S/.0.5  S/.1</span>
+                    <span class="price">S/.0.5 S/.1</span>
                   </div>
                 </div>
                 <p><span>Chocolate bitter</p>
@@ -918,8 +997,7 @@
         </div>
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img "
-              style="background-image: url(imagenes/alafjores-caja.jpg);height: 270px;"></div>
+            <div class="menu-img img " style="background-image: url(imagenes/alafjores-caja.jpg);height: 270px;"></div>
             <div class="text d-flex align-items-center">
               <div>
                 <div class="d-flex">
@@ -1366,27 +1444,28 @@
         </div>
       </div>
       -->
-      <div class="row">
-        <div class="col-md-12 text-center">
+        <div class="row">
+          <div class="col-md-12 text-center">
 
-          <p>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;
-            <script>document.write(new Date().getFullYear());</script> Gogazo | Diseño web
-            <i class="icon-heart" aria-hidden="true"></i> by <a href="https://gogazo.com" target="_blank">Gogazo</a>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-          </p>
+            <p>
+              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+              Copyright &copy;
+              <script>
+                document.write(new Date().getFullYear());
+              </script> Gogazo | Diseño web
+              <i class="icon-heart" aria-hidden="true"></i> by <a href="https://gogazo.com" target="_blank">Gogazo</a>
+              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+          </div>
         </div>
       </div>
-    </div>
   </footer>
 
 
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px">
       <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" />
-      <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10"
-        stroke="#F96D00" /></svg></div>
+      <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" /></svg></div>
 
 
   <script src="js/jquery.min.js"></script>
@@ -1403,8 +1482,7 @@
   <script src="js/bootstrap-datepicker.js"></script>
   <script src="js/jquery.timepicker.min.js"></script>
   <script src="js/scrollax.min.js"></script>
-  <script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
 
