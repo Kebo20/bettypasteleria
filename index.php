@@ -402,7 +402,7 @@
         </div>
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img" style="background-image: url(imagenes/cupcakes-dibujos.jpg);height: 250px;width:350px;"></div>
+            <div class="menu-img img" style="background-image: url(imagenes/cupcakes-dibujos.jpg);"></div>
             <div class="text d-flex align-items-center">
               <div>
                 <div class="d-flex">
@@ -421,7 +421,7 @@
         </div>
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img" style="background-image: url(imagenes/cupcakes-dibujos.jpg);height: 250px;width:350px;"></div>
+            <div class="menu-img img" style="background-image: url(imagenes/cupcakes-dibujos.jpg);"></div>
             <div class="text d-flex align-items-center">
               <div>
                 <div class="d-flex">
