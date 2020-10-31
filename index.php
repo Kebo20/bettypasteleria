@@ -319,7 +319,7 @@
       <div class="row no-gutters d-flex align-items-stretch">
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img" style="background-image: url(imagenes/tres-leches.jpg);"></div>
+            <div class="menu-img img" style="background-image: url(imagenes/tres-leches.jpg);height: 450px;"></div>
             <div class="text d-flex align-items-center">
               <div>
                 <div class="d-flex">
@@ -355,7 +355,7 @@
                   </div>
 
                 </div>
-                <p><span>Bañada en fudge</span> <br> <br> <br> <br></p>
+                <p><span>Bañada en fudge</span> </p>
                 <p><a href="#" class="btn btn-primary">Ordenar</a></p>
               </div>
             </div>
@@ -364,7 +364,7 @@
 
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img" style="background-image: url(imagenes/candy-torta5.jpg);height: 380px;"></div>
+            <div class="menu-img img" style="background-image: url(imagenes/candy-torta5.jpg);height: 400px;"></div>
             <div class="text d-flex align-items-center">
               <div>
                 <div class="d-flex">
@@ -383,7 +383,7 @@
         </div>
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img" style="background-image: url(imagenes/candy-torta5.jpg);height: 380px;"></div>
+            <div class="menu-img img" style="background-image: url(imagenes/candy-torta5.jpg);height: 400px;"></div>
             <div class="text d-flex align-items-center">
               <div>
                 <div class="d-flex">
@@ -395,6 +395,44 @@
                   </div>
                 </div>
                 <p>Dulces variados y keke de naranja bañado en manjar</p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/cupcakes-dibujos.jpg);height: 250px;width:350px;"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Cupcakes personalizables</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/--</span>
+                  </div>
+                </div>
+                <p>Precio varia según modelo</p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/cupcakes-dibujos.jpg);height: 250px;width:350px;"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Cupcakes personalizables</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/--</span>
+                  </div>
+                </div>
+                <p>Precio varia según modelo</p>
                 <p><a href="#" class="btn btn-primary">Ordenar</a></p>
               </div>
             </div>
