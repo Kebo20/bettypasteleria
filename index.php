@@ -362,44 +362,8 @@
           </div>
         </div>
 
-        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
-          <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img" style="background-image: url(imagenes/candy-torta5.jpg);height: 400px;"></div>
-            <div class="text d-flex align-items-center">
-              <div>
-                <div class="d-flex">
-                  <div class="one-half">
-                    <h3>Candy torta (1/2)</h3>
-                  </div>
-                  <div class="one-forth">
-                    <span class="price">S/.58</span>
-                  </div>
-                </div>
-                <p>Dulces variados y keke de naranja bañado en manjar</p>
-                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
-          <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img" style="background-image: url(imagenes/candy-torta5.jpg);height: 400px;"></div>
-            <div class="text d-flex align-items-center">
-              <div>
-                <div class="d-flex">
-                  <div class="one-half">
-                    <h3>Candy torta (1/2)</h3>
-                  </div>
-                  <div class="one-forth">
-                    <span class="price">S/.58</span>
-                  </div>
-                </div>
-                <p>Dulces variados y keke de naranja bañado en manjar</p>
-                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
-              </div>
-            </div>
-          </div>
-        </div>
+
+
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
             <div class="menu-img img" style="background-image: url(imagenes/cupcakes-dibujos.jpg);"></div>
@@ -421,7 +385,7 @@
         </div>
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img" style="background-image: url(imagenes/cupcakes-dibujos.jpg);"></div>
+            <div class="menu-img img" style="background-image: url(imagenes/cupcakes-nombre.jpg);"></div>
             <div class="text d-flex align-items-center">
               <div>
                 <div class="d-flex">
@@ -527,7 +491,7 @@
 
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img" style="background-image: url(imagenes/candy-torta1.jpg);height: 380px;"></div>
+            <div class="menu-img img" style="background-image: url(imagenes/candy-torta1.jpg);height: 400px;"></div>
             <div class="text d-flex align-items-center">
               <div>
                 <div class="d-flex">
@@ -546,10 +510,9 @@
         </div>
 
 
-
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
-            <div class="menu-img img" style="background-image: url(imagenes/candy-torta4.jpg);height: 380px;"></div>
+            <div class="menu-img img" style="background-image: url(imagenes/candy-torta5.jpg);height: 400px;"></div>
             <div class="text d-flex align-items-center">
               <div>
                 <div class="d-flex">
@@ -557,7 +520,7 @@
                     <h3>Candy torta (1/2)</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">S/.55</span>
+                    <span class="price">S/.58</span>
                   </div>
                 </div>
                 <p>Dulces variados y keke de naranja bañado en manjar</p>
@@ -566,7 +529,6 @@
             </div>
           </div>
         </div>
-
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
             <div class="menu-img img " style="background-image: url(imagenes/cupcakes-rosa.jpg);height: 250px;"></div>
