@@ -317,6 +317,53 @@
         </div>
       </div>
       <div class="row no-gutters d-flex align-items-stretch">
+      <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/torta-chocolate-corazon.jpg);height: 450px;"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Torta de chocolate</h3>
+
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/.25</span>
+
+
+                  </div>
+
+                </div>
+                <p>En forma de corazón, relleno de manjar y bañado en fudge</p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(imagenes/torta-rosas.jpg);height: 450px;"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Torta personalizada (1/4)</h3>
+
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">S/.38</span>
+
+
+                  </div>
+
+                </div>  
+
+                <p>De crema de mantequilla o glasé real </p>
+                <p><a href="#" class="btn btn-primary">Ordenar</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
         <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
           <div class="menus d-sm-flex ftco-animate align-items-stretch">
             <div class="menu-img img" style="background-image: url(imagenes/tres-leches.jpg);height: 450px;"></div>
@@ -328,7 +375,9 @@
 
                   </div>
                   <div class="one-forth">
+                    <span class="price">S/.30</span>
                     <span class="price">S/.58</span>
+
 
                   </div>
 
